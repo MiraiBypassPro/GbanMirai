@@ -1,1 +1,1 @@
-# GbanMirai
+# gban-mirai
